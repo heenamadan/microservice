@@ -1,0 +1,11 @@
+rootProject.name = 'microservice-test'
+
+include 'api-microservice-gateway', 'microservice-discovery-server'
+
+project(':api-microservice-gateway').projectDir = file('support/api-microservice-gateway')
+project(':microservice-discovery-server').projectDir = file('support/microservice-discovery-server')
+
+
+include 'product-catalog-service'
+
+project(':product-catalog-service').projectDir = file('core/product-catalog-service')
