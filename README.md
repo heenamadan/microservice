@@ -1,6 +1,5 @@
-## Sapient Globomart Application- microservice for product catalog
 
-run gradle wrapper in sapient-globomart folder
+run gradle wrapper in microservice-test folder
 after success
 run: 
 
