@@ -1,4 +1,4 @@
-rootProject.name = 'microservice-test'
+rootProject.name = 'microservice'
 
 include 'api-microservice-gateway', 'microservice-discovery-server'
 

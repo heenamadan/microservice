@@ -1,5 +1,5 @@
 
-run gradle wrapper in microservice-test folder
+run gradle wrapper in microservice folder
 after success
 run: 
 
